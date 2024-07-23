@@ -1,0 +1,20 @@
+PHP CRUD OPERATION:
+STEPS:
+1. Create Database with connect front end
+2.Insert Data
+3.Display Data
+4.Edit/Update
+5.Delete
+
+
+1. start xampp>start & create a demo file in htdocs>
+open chorme>search: localhost/dashboard/ > Admin
+Create Database > New >
+ Database Name:demo >create
+  Database Table Name: Student, Number of colums:4>Go
+  1. id        type:int         length:11    Null Index: PRIMARY
+  2. firstname   type:varchar    length:100
+  3. lastname    type:varchar     length:100A 
+  4. Age        type:int         length:11
+     -----------------THAN SAVE-------------------------
+	 ID>EDIT>TICK A A_I(Auto Increment)>save it
