@@ -31,7 +31,7 @@ This project is designed to teach **database-driven web development fundamentals
 
 - **Frontend:** HTML5, CSS3, Bootstrap
 - **Backend:** PHP 8+
-- **Database:** MySQL / MariaDB
+- **Database:** MySQL 
 - **Server:** Apache (XAMPP)
 
 
