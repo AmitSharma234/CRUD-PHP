@@ -34,6 +34,6 @@ This project is designed to teach **database-driven web development fundamentals
 - **Database:** MySQL / MariaDB
 - **Server:** Apache (XAMPP / WAMP / LAMP)
 
----
+
 
 
