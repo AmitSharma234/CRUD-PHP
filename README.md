@@ -29,7 +29,7 @@ This project is designed to teach **database-driven web development fundamentals
 
 ## 🛠 Tech Stack
 
-- **Frontend:** HTML5, CSS3, Bootstrap , JavaScript
+- **Frontend:** HTML5, CSS3, Bootstrap
 - **Backend:** PHP 8+
 - **Database:** MySQL 
 - **Server:** Apache (XAMPP)
