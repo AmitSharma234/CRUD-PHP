@@ -23,7 +23,6 @@ This project is designed to teach **database-driven web development fundamentals
 - GET and POST methods
 - Prepared statements 
 - Validation & error handling
-- Project folder structure
 
 ---
 
