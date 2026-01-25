@@ -1,4 +1,4 @@
-# 📘 PHP CRUD (Create, Read, Update,Delete) with MySQL
+# 📘 PHP CRUD (Create, Read,Update,Delete) with MySQL
 
 A complete learning repository that explains **PHP CRUD operations step by step** using **PHP & MySQL**.  
 This project is designed to teach **database-driven web development fundamentals** in a simple, practical, and professional way.
