@@ -35,4 +35,3 @@ This project is designed to teach **database-driven web development fundamentals
 - **Server:** Apache (XAMPP)
 
 ---
-
