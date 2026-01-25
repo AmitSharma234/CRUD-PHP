@@ -18,7 +18,7 @@ This project is designed to teach **database-driven web development fundamentals
 ## 🧠 What You Will Learn
 
 - PHP & MySQL integration
-- SQL basics (INSERT, SELECT, UPDATE, DELETE)
+- SQL basics (INSERT,SELECT,UPDATE, DELETE)
 - Form handling using PHP
 - GET and POST methods
 - Prepared statements 
