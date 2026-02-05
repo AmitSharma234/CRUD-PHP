@@ -24,7 +24,6 @@ This project is designed to teach **database-driven web development fundamentals
 - Prepared statements 
 - Validation & error handling
 - Project File Structure 
-
 ---
 
 ## 🛠 Tech Stack
