@@ -32,4 +32,5 @@ This project is designed to teach **database-driven web development fundamentals
 - **Backend:** PHP 8+
 - **Database:** MySQL 
 - **Server:** Apache (XAMPP)
+  
 ---
