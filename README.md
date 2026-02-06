@@ -11,7 +11,7 @@ This project is designed to teach **database-driven web development fundamentals
 - Learn **database connectivity** using MySQL
 - Perform **Create, Read, Update, Delete** operations securely
 - Follow **clean code and best practices**
-- Build a **real-world PHP database application**
+- Build a **real-world PHP database web application**
 
 ---
 
